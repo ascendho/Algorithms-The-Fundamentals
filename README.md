@@ -1,2 +1,2 @@
-# -Algorithms-The-Fundamentals
+# Algorithms-The-Fundamentals
 
